@@ -3,6 +3,7 @@
 ### Flutter Developer 💙
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Sami-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ahmed-sami-91a2363ab)
+[![Email](https://img.shields.io/badge/Gmail-Ahmed%20Sami-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
 I'm a passionate Flutter Developer who enjoys building beautiful, fast, and scalable mobile applications.
 
