@@ -1,8 +1,9 @@
+```md
 # Hi, I'm Ahmed 👋
 
 ### Flutter Developer 💙
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Sami-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ahmed-sami-91a2363ab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Sami-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-sami-91a2363ab)
 
 I'm a passionate Flutter Developer who enjoys building beautiful, fast, and scalable mobile applications.
 
@@ -22,7 +23,7 @@ I'm a passionate Flutter Developer who enjoys building beautiful, fast, and scal
 ## 🛠 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio,figma,postman" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,vscode,androidstudio,git" />
 </p>
 
 ---
@@ -55,3 +56,4 @@ I'm a passionate Flutter Developer who enjoys building beautiful, fast, and scal
 ---
 
 ⭐ Thanks for visiting my profile!
+```
