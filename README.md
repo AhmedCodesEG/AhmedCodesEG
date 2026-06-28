@@ -6,6 +6,7 @@
 
 I'm a passionate Flutter Developer who enjoys building beautiful, fast, and scalable mobile applications.
 
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat)
 ---
 
 ## 🚀 About Me
