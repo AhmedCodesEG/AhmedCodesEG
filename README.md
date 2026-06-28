@@ -2,6 +2,8 @@
 
 ### Flutter Developer 💙
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Sami-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ahmed-sami-91a2363ab)
+
 I'm a passionate Flutter Developer who enjoys building beautiful, fast, and scalable mobile applications.
 
 ---
@@ -49,14 +51,6 @@ I'm a passionate Flutter Developer who enjoys building beautiful, fast, and scal
 * Chat Applications
 * Booking Systems
 * Dashboard Apps
-
----
-
-## 📫 Contact Me
-
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-* Email: [YOUR_EMAIL@gmail.com](mailto:YOUR_EMAIL@gmail.com)
 
 ---
 
