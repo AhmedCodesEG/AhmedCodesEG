@@ -1,91 +1,63 @@
-```md
-# Hi there, I'm Ahmed 👋
+# Hi, I'm Ahmed 👋
 
-### 🚀 Flutter Developer | Mobile App Developer
+### Flutter Developer 💙
 
-Welcome to my GitHub profile!
+I'm a passionate Flutter Developer who enjoys building beautiful, fast, and scalable mobile applications.
 
-I'm Ahmed, a passionate Flutter Developer from Egypt 🇪🇬.
-I enjoy building beautiful, fast, and scalable mobile applications using Flutter and Dart.
+---
 
-## 💻 About Me
+## 🚀 About Me
 
-- 📱 Flutter Mobile Developer
-- 💙 Passionate about Flutter & Dart
-- 🔥 Clean Architecture & State Management
-- 🌱 Currently learning advanced Flutter animations and backend integration
-- 🎯 Goal: Build high-quality apps that people love.
+* 📱 Flutter Mobile Developer
+* 💙 Love Flutter & Dart
+* 🔥 Clean Architecture
+* 🧩 Bloc | Cubit | Provider | GetX
+* 🌐 REST APIs & Firebase
+* 📍 Egypt
 
 ---
 
 ## 🛠 Tech Stack
 
-### Mobile
-- Flutter
-- Dart
-- Firebase
-
-### State Management
-- Bloc
-- Cubit
-- Provider
-- GetX
-
-### Local Storage
-- Shared Preferences
-- Hive
-- SQLite
-
-### Backend & APIs
-- REST API
-- Dio
-- HTTP
-- Firebase Authentication
-- Cloud Firestore
-
-### Tools
-- Git
-- GitHub
-- Android Studio
-- VS Code
-- Postman
-- Figma
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio,figma,postman" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 📱 What I Build
 
-- 📱 E-Commerce App
-- 🍔 Food Delivery App
-- 💬 Chat Application
-- 🏥 Doctor Booking App
-- 🛒 POS System
+* E-Commerce Apps
+* Food Delivery Apps
+* Chat Applications
+* Booking Systems
+* Dashboard Apps
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+* GitHub: https://github.com/YOUR_USERNAME
+* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+* Email: [YOUR_EMAIL@gmail.com](mailto:YOUR_EMAIL@gmail.com)
 
 ---
 
 ⭐ Thanks for visiting my profile!
-```
