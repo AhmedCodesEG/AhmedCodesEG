@@ -38,10 +38,6 @@ I'm a passionate Flutter Developer who enjoys building beautiful, fast, and scal
 
 ---
 
-
-
----
-
 ## 📱 What I Build
 
 * E-Commerce Apps
