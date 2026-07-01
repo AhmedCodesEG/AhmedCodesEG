@@ -38,11 +38,7 @@ I'm a passionate Flutter Developer who enjoys building beautiful, fast, and scal
 
 ---
 
-## 🔥 GitHub Streak
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
 
 ---
 
